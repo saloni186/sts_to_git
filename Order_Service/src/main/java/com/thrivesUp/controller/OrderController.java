@@ -33,4 +33,8 @@ public class OrderController {
 
 	}
 
+	private void welcome() {
+
+	}
+
 }
